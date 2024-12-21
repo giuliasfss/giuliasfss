@@ -75,8 +75,6 @@
 <br>
 
 
-<br>
-
 ## 💖 Curiosidades : <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/79258361-c121-400c-8245-600b272b1eea" align="right" width="160" />
 - 💡 Apaixonada por tecnologia, acredito que o **futuro** será moldado por inovações, e estou empolgada para fazer parte dessa transformação! 
 - 💻 No meu tempo livre, gosto de **resolver desafios de lógica** e aprimorar minhas habilidades.
