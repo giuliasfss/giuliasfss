@@ -58,7 +58,7 @@
 ## 💻💡 Projetos e Trabalhos :
 - 📊 Trabalhando na **criação de softwares** para facilitar o trabalho no **INPE**, focando na otimização de ferramentas e na implementação de novos sistemas.
 - 📌 Atuando nos setores de: Serviço de Planejamento e Controle - 3PST- Sistema para a gestão do portfólio de Programas, Projetos, Produtos, Serviços e Tecnologias do INPE.
-- 🔍 Focada no desenvolvimento de soluções utilizando **Inteligência Artificial** e **Machine Learning** para análise de dados espaciais.
+- 🔍 Focada no desenvolvimento de soluções utilizando **Inteligência Artificial** e **Machine Learning** para análise de dados.
 <br>
 
 
